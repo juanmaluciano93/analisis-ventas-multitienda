@@ -45,7 +45,7 @@ Los datos fueron obtenidos del repositorio oficial del Challenge 1 de Alura Lata
 - 🧁 Gráficos de pastel: Distribución de categorías.
 - 📉 Gráficos de línea: Calificación promedio.
 - 📍 Mapas interactivos: Ubicación geográfica de ventas por tienda.
-- 🔥 (Opcional) Heatmaps de concentración de ventas por zona.
+- 🔥 Heatmaps de concentración de ventas por zona.
 
 ---
 
@@ -64,9 +64,8 @@ Después de un análisis completo, se concluyó que **la Tienda 4** representa l
 
 ## 🗂 Archivos Entregados
 
-- `analisis_ventas_tiendas.ipynb`: notebook de Google Colab con todo el código, análisis y visualizaciones.
+- `AluraStoreLatam.ipynb`: notebook de Google Colab con todo el código, análisis y visualizaciones.
 - `README.md`: este archivo con el resumen del proyecto.
-- (Opcional) `informe_final.pdf`: versión exportada del análisis como informe PDF.
 
 ---
 
@@ -74,7 +73,6 @@ Después de un análisis completo, se concluyó que **la Tienda 4** representa l
 
 **Nombre:** Juan Manuel Luciano  
 **Rol:** Analista / Científico de Datos Jr.  
-**Contacto:** [opcional: correo o LinkedIn]
 
 ---
 
